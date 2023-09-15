@@ -2,6 +2,10 @@
 The September newsletter is called September-newsletter-inline-styles.html. The other one called email.html is just a copy for future reference.
 <a href="September-newsletter-inline-styles.html"> latest version </a>
 
+# For everybody else (if you're looking at this bc it's on my LinkedIn or something)
+The rest of this readme is for the template I forked and modified this project from.
+
+
 # Free Responsive HTML Email Template
 
 Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
