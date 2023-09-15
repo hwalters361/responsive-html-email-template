@@ -1,3 +1,7 @@
+# For WACM folks
+The September newsletter is called September-newsletter-inline-styles.html. The other one called email.html is just a copy for future reference.
+
+
 # Free Responsive HTML Email Template
 
 Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
