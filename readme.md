@@ -1,6 +1,7 @@
 # For WACM folks
 Latest newsletter (October) is here:
 <a href="October-newsletter-inline-styles.html"> latest version </a>
+
 Here is a live demo: <a href="https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html">https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html </a>
 
 
