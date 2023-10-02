@@ -1,6 +1,12 @@
 # For WACM folks
-The September newsletter is called September-newsletter-inline-styles.html. The other one called email.html is just a copy for future reference.
-<a href="September-newsletter-inline-styles.html"> latest version </a>
+Latest newsletter (October) is here:
+<a href="October-newsletter-inline-styles.html"> latest version </a>
+Here is a live demo: <a href="https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html">https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html </a>
+
+
+
+<s>The September newsletter is called September-newsletter-inline-styles.html. The other one called email.html is just a copy for future reference.
+<a href="September-newsletter-inline-styles.html"> latest version </a> </s>
 
 # For everybody else (if you're looking at this bc it's on my LinkedIn or something)
 The rest of this readme is for the template I forked and modified this project from.
