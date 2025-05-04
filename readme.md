@@ -4,7 +4,8 @@ Latest newsletter (October) is here:
 
 Here is a live demo: <a href="https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html">https://hwalters361.github.io/responsive-html-email-template/October-newsletter-inline-styles.html </a>
 
-
+To create a new newsletter, just fork this and change the content of the html tags! 
+There are many online visual HTML editors that make this task a lot easier. Additionally, to add/delete table rows, some visual html text editors like https://wysiwyghtml.com/ support this.
 
 <s>The September newsletter is called September-newsletter-inline-styles.html. The other one called email.html is just a copy for future reference.
 <a href="September-newsletter-inline-styles.html"> latest version </a> </s>
